@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amygl
-- 👀 I’m interested in ux, ts, js, web tech, ml, ai, electronics, cross-stitching, cricut, legos
+- 👀 I’m interested in ux, ts, js, web tech, ml, ai, electronics, cross-stitching, cricut, legos, puzzles
 - 🌱 I’m currently learning ML, compilers
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
